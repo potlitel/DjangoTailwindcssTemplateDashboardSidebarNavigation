@@ -201,6 +201,7 @@ List of resources I find helpful and would like to give credit to. I've included
 * [Configuration of the path to the npm executable](https://django-tailwind.readthedocs.io/en/latest/installation.html#configuration-of-the-path-to-the-npm-executable)
 * [Fix - 'cross-env' is not recognized as an internal or external command](https://bobbyhadz.com/blog/not-recognized-as-internal-or-external-command-cross-env#:~:text=To%20solve%20the%20error%20%22cross,save%2Ddev%20cross%2Denv%20.&text=Copied!)
 * [Dashboard Sidebar Navigation](https://tailwindcomponents.com/component/dashboard-sidebar-navigation)
+* [Setting up Tailwind with Django [The right way] 🎉️✨️](https://www.youtube.com/watch?v=GepQBpHNgrk)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
