@@ -22,23 +22,23 @@
 
 <br />
 <div align="center">
-  <a href="https://github.com/potlitel/DjangoTailwindcssTemplate">
+  <a href="https://github.com/potlitel/DjangoTailwindcssTemplateDashboardSidebarNavigation">
     <img src="images/django-logo-big-1.jpeg" alt="Logo" width="140" height="100">
   </a>
 
-<h3 align="center">Tailwindcss template - Django</h3>
+<h3 align="center">Tailwindcss Dashboard Template - Django</h3>
 
 <p align="center">
     project_description
     <br />
-    <a href="https://github.com/potlitel/DjangoTailwindcssTemplate"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/potlitel/DjangoTailwindcssTemplateDashboardSidebarNavigation"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/potlitel/DjangoTailwindcssTemplate">View Demo</a>
+    <a href="https://github.com/potlitel/DjangoTailwindcssTemplateDashboardSidebarNavigation">View Demo</a>
     ·
-    <a href="https://github.com/potlitel/DjangoTailwindcssTemplate">Report Bug</a>
+    <a href="https://github.com/potlitel/DjangoTailwindcssTemplateDashboardSidebarNavigation">Report Bug</a>
     ·
-    <a href="https://github.com/potlitel/DjangoTailwindcssTemplate/issues">Request Feature</a>
+    <a href="https://github.com/potlitel/DjangoTailwindcssTemplateDashboardSidebarNavigation/issues">Request Feature</a>
   </p>
 </div>
 
@@ -110,7 +110,7 @@ This repo is a rich clone of [Dashboard Sidebar Navigation](https://tailwindcomp
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/potlitel/DjangoTailwindcssTemplate.git
+   git clone https://github.com/potlitel/DjangoTailwindcssTemplateDashboardSidebarNavigation.git
    ```
 2. Change directory to recently cloned project on previous step 
    ```sh
@@ -181,7 +181,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 Your Name - [@twitter_handle](https://twitter.com/potlitel) - potlitel@gmail.com
 
-Project Link: [https://github.com/potlitel/DjangoTailwindcssTemplate](https://github.com/potlitel/DjangoTailwindcssTemplate)
+Project Link: [https://github.com/potlitel/DjangoTailwindcssTemplateDashboardSidebarNavigation](https://github.com/potlitel/DjangoTailwindcssTemplateDashboardSidebarNavigation)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -202,6 +202,7 @@ List of resources I find helpful and would like to give credit to. I've included
 * [Fix - 'cross-env' is not recognized as an internal or external command](https://bobbyhadz.com/blog/not-recognized-as-internal-or-external-command-cross-env#:~:text=To%20solve%20the%20error%20%22cross,save%2Ddev%20cross%2Denv%20.&text=Copied!)
 * [Dashboard Sidebar Navigation](https://tailwindcomponents.com/component/dashboard-sidebar-navigation)
 * [Setting up Tailwind with Django [The right way] 🎉️✨️](https://www.youtube.com/watch?v=GepQBpHNgrk)
+* [Tailwind CSS Alerts](https://tailwindcomponents.com/component/tailwind-css-alerts)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
