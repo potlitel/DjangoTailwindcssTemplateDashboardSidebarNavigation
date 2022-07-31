@@ -783,6 +783,10 @@ select {
   left: 0px;
 }
 
+.m-10 {
+  margin: 2.5rem;
+}
+
 .mx-auto {
   margin-left: auto;
   margin-right: auto;
@@ -818,6 +822,18 @@ select {
 
 .mb-8 {
   margin-bottom: 2rem;
+}
+
+.mt-0\.5 {
+  margin-top: 0.125rem;
+}
+
+.mt-0 {
+  margin-top: 0px;
+}
+
+.mt-5 {
+  margin-top: 1.25rem;
 }
 
 .block {
@@ -862,6 +878,14 @@ select {
 
 .h-8 {
   height: 2rem;
+}
+
+.h-auto {
+  height: auto;
+}
+
+.h-3\/6 {
+  height: 50%;
 }
 
 .min-h-screen {
@@ -1026,6 +1050,10 @@ select {
 
 .p-4 {
   padding: 1rem;
+}
+
+.p-10 {
+  padding: 2.5rem;
 }
 
 .px-3 {
