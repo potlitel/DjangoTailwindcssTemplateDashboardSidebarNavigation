@@ -89,7 +89,7 @@ Here's a blank template to get started: To avoid retyping too much info. Do a se
 
 ## Getting Started
 
-This repo is a rich clone of [Creating a REST Web API in C# with ASP.NET Core 5.0 and Visual Studio Code](https://luis-hernandez.medium.com/creating-a-rest-web-api-in-c-with-asp-net-core-5-0-and-visual-studio-code-809ea7b4f815). Is an step-by-step guide to show you how to create a REST Web API in C# with ASP.NET Core 5.0 and Visual Studio Code. And how test it using either Swagger or a REST Client extension..
+This repo is a rich clone of [Dashboard Sidebar Navigation](https://tailwindcomponents.com/component/dashboard-sidebar-navigation). Is an step-by-step guide to show you how to create a REST Web API in C# with ASP.NET Core 5.0 and Visual Studio Code. And how test it using either Swagger or a REST Client extension..
 
 ### Prerequisites
 
@@ -200,6 +200,7 @@ List of resources I find helpful and would like to give credit to. I've included
 * [Global npm install location on windows?](https://stackoverflow.com/questions/33819757/global-npm-install-location-on-windows)
 * [Configuration of the path to the npm executable](https://django-tailwind.readthedocs.io/en/latest/installation.html#configuration-of-the-path-to-the-npm-executable)
 * [Fix - 'cross-env' is not recognized as an internal or external command](https://bobbyhadz.com/blog/not-recognized-as-internal-or-external-command-cross-env#:~:text=To%20solve%20the%20error%20%22cross,save%2Ddev%20cross%2Denv%20.&text=Copied!)
+* [Dashboard Sidebar Navigation](https://tailwindcomponents.com/component/dashboard-sidebar-navigation)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
