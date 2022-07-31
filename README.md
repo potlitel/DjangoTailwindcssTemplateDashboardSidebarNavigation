@@ -112,13 +112,17 @@ This repo is a rich clone of [Creating a REST Web API in C# with ASP.NET Core 5.
    ```sh
    git clone https://github.com/potlitel/DjangoTailwindcssTemplate.git
    ```
-2. Install NPM packages
+2. Change directory to recently cloned project on previous step 
+   ```sh
+   cd DjangoTailwindcssTemplate
+   ```
+3. Install NPM packages
    ```sh
    npm install
    ```
-3. Running the project
+4. Running the project
    ```js
-   dotnet watch run
+   py .\manage.py runserver
    ```
 
 <p align="right">(<a href="#top">back to top</a>)</p>
@@ -195,6 +199,7 @@ List of resources I find helpful and would like to give credit to. I've included
 * [problem with finding npm while trying to install django-tailwind with python venv](https://www.reddit.com/r/djangolearning/comments/s7chy0/problem_with_finding_npm_while_trying_to_install/)
 * [Global npm install location on windows?](https://stackoverflow.com/questions/33819757/global-npm-install-location-on-windows)
 * [Configuration of the path to the npm executable](https://django-tailwind.readthedocs.io/en/latest/installation.html#configuration-of-the-path-to-the-npm-executable)
+* [Fix - 'cross-env' is not recognized as an internal or external command](https://bobbyhadz.com/blog/not-recognized-as-internal-or-external-command-cross-env#:~:text=To%20solve%20the%20error%20%22cross,save%2Ddev%20cross%2Denv%20.&text=Copied!)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
