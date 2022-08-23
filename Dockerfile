@@ -1,7 +1,7 @@
 # base image  
 FROM python:3.10.6-alpine3.16   
 # setup environment variable  
-ENV DockerHOME=/home/app/Superhero-DRF  
+ENV DockerHOME=/home/app/TailwindCSS-SidebarNavigation  
 
 # set work directory  
 RUN mkdir -p $DockerHOME  
