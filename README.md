@@ -26,7 +26,7 @@
     <img src="images/django-logo-big-1.jpeg" alt="Logo" width="140" height="100">
   </a>
 
-<h3 align="center">Tailwindcss Dashboard Template - Django</h3>
+<h3 align="center">Tailwindcss Template Sidebar Navigation - Django</h3>
 
 <p align="center">
     project_description
@@ -81,7 +81,7 @@ Here's a blank template to get started: To avoid retyping too much info. Do a se
 
 ### Built With
 
-* [Dotnet 6.0](https://dotnet.microsoft.com/en-us/download/dotnet/6.0)
+* [Django](https://www.djangoproject.com/)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -93,18 +93,18 @@ This repo is a rich clone of [Dashboard Sidebar Navigation](https://tailwindcomp
 
 ### Prerequisites
 
-1. First you need to check if you have installed the .NET Core 6.0 SDK with the following .NET CLI (Command-Line Interface) command:
+1. First you need to check if you have installed any python version, for this use the following CLI (Command-Line Interface) command:
 
       ```sh
-      dotnet --version
+      python --version
       ```
-    If your version is not 5 or above, [download the .NET Core 6.0 SDK](https://dotnet.microsoft.com/en-us/download/dotnet/6.0) and install it on your machine.
+    If your version is not 3 or above, [download the python 3](https://www.python.org/downloads/) and install it on your machine.
 
 2. Install Visual Studio Code editor (also know as VSCode).
 
 3. Once Visual Studio Code is open, install the REST Client extension.
 
-4. Finally, install the C# extension to get IntelliSense features in VSCode.
+4. Finally, install any python extension to get IntelliSense features in VSCode.
 
 ### Installation
 
@@ -114,13 +114,9 @@ This repo is a rich clone of [Dashboard Sidebar Navigation](https://tailwindcomp
    ```
 2. Change directory to recently cloned project on previous step 
    ```sh
-   cd DjangoTailwindcssTemplate
+   cd DjangoTailwindcssTemplateDashboardSidebarNavigation
    ```
-3. Install NPM packages
-   ```sh
-   npm install
-   ```
-4. Running the project
+3. Running the project
    ```js
    py .\manage.py runserver
    ```
